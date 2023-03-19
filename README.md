@@ -14,7 +14,7 @@ To install this theme,
 
 1. Ensure you have the latest version of RStudio (at least v1.2, which was [released in April of 2019](https://blog.rstudio.com/2019/04/30/rstudio-1-2-release/))
 2. Ensure you have the `rstudioapi` package installed.
-3. Run this one line of code, `rstudioapi::addTheme("https://raw.githubusercontent.com/roshandarji/synthwaveBLACK/master/SynthwaveBlack.rstheme", TRUE, TRUE, FALSE)`
+3. Run this one line of code, `rstudioapi::addTheme("https://raw.githubusercontent.com/aritzLizoain/synthwaveBLACK/master/SynthwaveBlack.rstheme", TRUE, TRUE, FALSE)`
 
 
 ## Change Theme / Uninstallation
@@ -37,3 +37,5 @@ If any areas of the theme seem off/weird, feel free to let me know under the `Is
 ## Citation
 I've copied and made extremely minor changes to the [README.MD of the Synthwave85 RStudio theme](https://github.com/jnolis/synthwave85/blob/master/readme.md).
 The wording and format in which the information was provided was good, so I saw no reason to change it.
+
+## + some R snippets
