@@ -152,7 +152,7 @@
 
 .ace_comment {
   font-style: italic;
-  color: #858383;
+  color: #696969;
   text-shadow: 0 0 0px #000, 0 0 0px #000, 0 0 px #000, 0 0 0px #000;
 
 }
